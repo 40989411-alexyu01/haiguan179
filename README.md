@@ -25,4 +25,7 @@ json里的字段全为字符串型<br/>
 { "initalRequest": "initalRequest", "initalResponse": "initalResponse", "payTransactionId": "4200000306201905223753178715", "totalAmount": "1564.84", "verDept": "3", "tradingTime": "20190522160003", "goods": [ { "gname": "当归口服液 Hemohim ( 4 盒 )", "itemLink": "http:///?a=viewgoods&id=307" } ], "ebpCode": "3PB", "certNo": "0d", "payCode": "31222699S7", "currency": "142", "recpAccount": "3***77", "recpName": "财付通支付科技有限公司", "orderNo": "20190522160021647878953", "SessionID": "20190522160021647878953" }
 
 >>对接流程<br/>
-提供两个地址1.订单数据获取,2.上报结果回调 按照格式返回 海关请求需要存相关信息,sessionId,orderid
+提供两个外网可访问地址<br/>
+1.订单数据获取,<br/>
+2.上报结果回调 <br/>
+按照格式返回 海关请求需要存相关信息,sessionId,orderid
