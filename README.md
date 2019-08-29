@@ -1,7 +1,7 @@
 海关179对接终结版
 >>使用注意事项<br/>
 先安装海关控件<br/>
-http://update.singlewindow.cn/downloads/EportClientSetup_V1.5.12.exe
+http://update.singlewindow.cn/downloads/EportClientSetup_V1.5.12.exe<br/><br/>
 >>一个exe解决所有问题,兼容所有语言 java,php,c#等<br/>
 屏蔽了所有的实现细节,只需要按要求组装数据返回便可<br/>
 只需提供一个获取订单的接口便可<br/>
