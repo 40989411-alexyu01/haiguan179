@@ -13,7 +13,7 @@
 
 >>说明 20秒请求一次加签数据 30秒之内上报海关<br/>
 
->>模拟海关请求地址
+>>模拟海关请求地址<br/>
 http://wyb.qdhuaxun.cn/baoguan/paycheck/debug.php<br/>
 {"code":"20006","message":"上传失败,入库失败 java.sql.SQLException: ORA-00001: 违反唯一约束条件 (sessionID重复)","total":0,"serviceTime":1567050097628} 接口返回这个表示已通
 
