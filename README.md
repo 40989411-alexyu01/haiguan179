@@ -34,4 +34,7 @@ http://ceb1.chinaport.gov.cn/<br/>
 1.订单数据获取,按格式返回<br/>
 2.上报结果回调 <br/>
 按照格式返回 <br/>
-海关请求时在服务器保存存相关信息,sessionId,orderid
+海关请求时在服务器保存存相关信息,sessionId,orderid<br/>
+
+>>提示:企业实时数据获取验签证书未在服务系统注册<br/>
+原因是: ebpCode 与 certNo 要对应
