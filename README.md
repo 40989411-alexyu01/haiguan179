@@ -16,7 +16,7 @@ http://update.singlewindow.cn/downloads/EportClientSetup_V1.5.12.exe<br/>
 需要在插有操作员卡的,并安装海关驱动的机器上运行exe<br/>
 正式版需联系作者(微信:alexyu01),需要配置地址,单独打包<br/>
 
->>模拟海关联调页面<br/>
+>>模拟海关请求联调页面<br/>
 http://wyb.qdhuaxun.cn/baoguan/paycheck/debug.php<br/>
 
 >>提示:企业实时数据获取验签证书未在服务系统注册<br/>
