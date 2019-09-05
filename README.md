@@ -1,9 +1,4 @@
 海关179对接终结版
->>使用注意事项<br/>
-先安装海关控件<br/>
-http://update.singlewindow.cn/downloads/EportClientSetup_V1.5.12.exe<br/>
-插操作员卡,操作员卡,操作员卡,上传证书是操作员的,不是法人卡.加签得用操作员卡,注册得用法人卡<br/>
-
 >>一个exe解决所有问题,兼容所有语言 java,php,c#等<br/>
 屏蔽了所有的实现细节,只需要按要求组装数据返回便可<br/>
 只需提供一个获取订单的接口,其他由程序自动执行<br/>
@@ -21,3 +16,8 @@ http://wyb.qdhuaxun.cn/baoguan/paycheck/debug.php<br/>
 
 >>提示:企业实时数据获取验签证书未在服务系统注册<br/>
 原因是: ebpCode 与 certNo 要对应,与注册的时候保持一致!
+
+>>使用注意事项<br/>
+先安装海关控件<br/>
+http://update.singlewindow.cn/downloads/EportClientSetup_V1.5.12.exe<br/>
+插操作员卡,操作员卡,操作员卡,上传证书是操作员的,不是法人卡.加签得用操作员卡,注册得用法人卡<br/>
